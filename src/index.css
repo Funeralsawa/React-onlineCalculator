@@ -1,4 +1,5 @@
 * {
+    user-select: none;
     box-sizing: border-box;
 }
 
@@ -37,11 +38,11 @@ body {
 }
 
 .output > .last-output {
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 
 .output > .current-output {
-    font-size: 4rem;
+    font-size: 3rem;
 }
 
 .button-ac {
